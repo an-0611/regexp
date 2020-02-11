@@ -1,4 +1,5 @@
 # regexp note
+```markdown
 // regexp
 常用正規
 // https://jimmy0222.pixnet.net/blog/post/36958819
@@ -206,3 +207,4 @@ str1.search(patt1) // -1
 \xhh : 查找以十六進制數dd 規定的字符。
 
 \uhhhh : 查找以十六進制數xxxx 規定的Unicode 字符。
+```
